@@ -4,5 +4,4 @@ scikit-learn>=1.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 joblib>=1.1.0
-tkinter
 chardet>=4.0.0
