@@ -1,0 +1,9 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2
+GP,F,17,U,GT3,T,4,4,teacher,teacher,course,mother,1,4,0,yes,yes,yes,yes,yes,yes,yes,no,5,2,1,1,1,5,0,18,19
+MS,M,16,U,GT3,T,4,3,health,teacher,reputation,father,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,2,2,1,1,4,1,17,18
+GP,F,18,U,LE3,A,3,4,teacher,health,course,mother,2,4,0,yes,yes,yes,no,yes,yes,yes,no,5,1,1,1,1,5,2,19,20
+MS,M,17,R,GT3,T,4,4,teacher,teacher,course,father,1,3,0,no,yes,yes,yes,yes,yes,no,no,4,2,2,1,1,4,1,16,17
+GP,F,16,U,GT3,T,3,3,health,services,reputation,mother,1,4,0,yes,yes,no,yes,yes,yes,yes,no,4,1,1,1,1,5,0,18,19
+MS,M,18,U,LE3,A,4,3,teacher,health,course,father,2,3,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,1,1,1,4,1,17,18
+GP,F,17,R,GT3,T,3,4,services,teacher,course,mother,2,4,0,yes,yes,yes,no,yes,yes,yes,no,4,1,2,1,1,5,0,19,20
+MS,M,16,U,GT3,T,4,4,teacher,teacher,reputation,father,1,3,0,yes,yes,no,yes,yes,yes,no,no,5,2,1,1,1,4,1,18,19
